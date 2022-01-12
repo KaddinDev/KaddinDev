@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @KaddinDev.
+- 👀 I’m interested in Minecraft Plugins, FOSS, Linux.
+- 🌱 I’m currently learning Java and Spigot-API.
+- 💞️ I’m looking to collaborate on Minecraft Plugin writing and contributions.
